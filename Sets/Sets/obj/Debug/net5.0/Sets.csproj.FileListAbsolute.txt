@@ -1,0 +1,16 @@
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\Sets.exe
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\Sets.deps.json
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\Sets.runtimeconfig.json
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\Sets.runtimeconfig.dev.json
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\Sets.dll
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\ref\Sets.dll
+C:\projetos\SetsEmCsharp\Sets\Sets\bin\Debug\net5.0\Sets.pdb
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.csproj.AssemblyReference.cache
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.AssemblyInfoInputs.cache
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.AssemblyInfo.cs
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.csproj.CoreCompileInputs.cache
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.dll
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\ref\Sets.dll
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.pdb
+C:\projetos\SetsEmCsharp\Sets\Sets\obj\Debug\net5.0\Sets.genruntimeconfig.cache
