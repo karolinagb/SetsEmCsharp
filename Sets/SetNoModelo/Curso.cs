@@ -8,6 +8,10 @@ namespace ListaSomenteLeitura
 {
     class Curso
     {
+        //Implementando o dicionário de alunos
+        private IDictionary<int, Aluno> dicionarioAlunos = new
+            Dictionary<int, Aluno>();
+
         private IList<Aula> aulas;
 
         private ISet<Aluno> alunos = new HashSet<Aluno>();
@@ -20,7 +24,7 @@ namespace ListaSomenteLeitura
             }
         }
 
-        public  IList<Aula> Aulas
+        public IList<Aula> Aulas
         {
             //Propriedade de coleção somente leitura
             get { return new ReadOnlyCollection<Aula>(aulas); }
@@ -44,9 +48,10 @@ namespace ListaSomenteLeitura
         internal void Matricula(Aluno aluno)
         {
             alunos.Add(aluno);
+            this.dicionarioAlunos.Add(aluno.NumeroMatricula, aluno);
         }
 
-        public  string Nome
+        public string Nome
         {
             get { return nome; }
             set { nome = value; }
@@ -84,9 +89,24 @@ namespace ListaSomenteLeitura
             return $"Curso: {nome}, Tempo: {TempoTotal}, Aulas: {string.Join(",", aulas)}";
         }
 
+        internal void SubstituiAluno(Aluno aluno)
+        {
+            this.dicionarioAlunos[aluno.NumeroMatricula] = aluno;
+        }
+
         public bool EstaMatriculado(Aluno aluno)
         {
             return alunos.Contains(aluno);
+        }
+
+        internal Aluno BuscaMatriculado(int numeroMatricula)
+        {
+            Aluno aluno = null;
+
+            //out é o valor que será retornado
+            this.dicionarioAlunos
+                     .TryGetValue(numeroMatricula, out aluno);
+            return aluno;
         }
     }
 }
