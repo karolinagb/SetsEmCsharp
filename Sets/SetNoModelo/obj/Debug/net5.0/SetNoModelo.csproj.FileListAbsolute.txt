@@ -1,0 +1,16 @@
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\SetNoModelo.exe
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\SetNoModelo.deps.json
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\SetNoModelo.runtimeconfig.json
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\SetNoModelo.runtimeconfig.dev.json
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\SetNoModelo.dll
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\ref\SetNoModelo.dll
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\bin\Debug\net5.0\SetNoModelo.pdb
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.csproj.AssemblyReference.cache
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.AssemblyInfoInputs.cache
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.AssemblyInfo.cs
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.csproj.CoreCompileInputs.cache
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.dll
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\ref\SetNoModelo.dll
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.pdb
+C:\projetos\SetsEmCsharp\Sets\SetNoModelo\obj\Debug\net5.0\SetNoModelo.genruntimeconfig.cache
